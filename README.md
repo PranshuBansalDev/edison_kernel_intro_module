@@ -1,4 +1,4 @@
-# edison_kernel_headers
+# edison_kernel_intro_module
 
 Refer to iot.seas.ucla.edu
 
